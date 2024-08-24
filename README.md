@@ -17,26 +17,23 @@ Installation
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/your-username/finalproject2.git
-cd finalproject2
+
+```git clone https://github.com/your-username/finalproject2.git```
+```cd finalproject2```
 Install dependencies:
 
-bash
-Copy code
-npm install
+
+```npm install```
 Start the project:
 
-bash
-Copy code
-npm start
+
+```npm start```
 You can also run it on specific platforms:
 
-bash
-Copy code
-npm run android
-npm run ios
-npm run web
+
+```npm run android```
+```npm run ios```
+```npm run web```
 
 # Project Structure
 **App.js**: Entry point of the application. Sets up navigation and context.
